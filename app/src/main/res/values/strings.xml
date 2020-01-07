@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">P3P1GOL</string>
+    <string name="mostrar">MOSTRAR</string>
+    <string name="cargar">CARGAR INFORMACION</string>
+    <string name="lblmostrar" />
+    <string name="informacion">INFORMACION DEL ARCHIVO</string>
+</resources>
